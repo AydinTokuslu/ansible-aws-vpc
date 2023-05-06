@@ -5,7 +5,7 @@
   gather_facts: no
   tasks:
     - name: import vpc setup variable
-      include_vars: vars/vpc-vpc-output_vars
+      include_vars: vars/vpc-output_vars
 
     - name: import vprofile setup variable
       include_vars: vars/vprostacksetup
