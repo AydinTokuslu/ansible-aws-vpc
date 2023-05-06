@@ -3,4 +3,3 @@ tomcat_ami: ami-091b1c4aa02ba6400
 memcache_ami: ami-091b1c4aa02ba6400
 rmg_ami: ami-091b1c4aa02ba6400
 mysql_ami: ami-091b1c4aa02ba6400
-
