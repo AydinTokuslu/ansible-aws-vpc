@@ -9,3 +9,6 @@ privsub3id: subnet-01791d03eb5928bb7
 igwid: igw-088911193fd465659
 pubRTid: rtb-0249e54d3f470edfc
 BastionSGid:
+# BEGIN ANSIBLE MANAGED BLOCK
+BastionSGid: sg-0231940a7460dffe4
+# END ANSIBLE MANAGED BLOCK
